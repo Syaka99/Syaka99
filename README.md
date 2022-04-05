@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syaka99
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics and Web Development
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me : https://www.linkedin.com/in/syarief-kamal-3503a1193/
 
